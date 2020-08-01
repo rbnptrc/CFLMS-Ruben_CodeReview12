@@ -1,0 +1,14 @@
+50/50 back and front editing
+php - html5 - WordPress
+
+Plugins Required:
+Contact Form 7
+Elementor
+
+Plugins Not Required:
+Custom Sidebars
+Show Current Template
+WP-Optimize-Clean, Compress, Cache
+Wp-Sweep
+
+Note: Start Link is: http://localhost/codefactory2
